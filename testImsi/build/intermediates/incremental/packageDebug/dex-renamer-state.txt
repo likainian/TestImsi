@@ -1,0 +1,7 @@
+#Tue Jan 17 11:49:11 CST 2017
+base.0=C\:\\androidwork\\TestImsi\\testImsi\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f73e1acb94e9722cb471dca8b391692a7950bb08
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\androidwork\\TestImsi\\testImsi\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8cf17bc2f46f0eb6c002241c179268df9ef5261f\\classes.dex
+base.1=C\:\\androidwork\\TestImsi\\testImsi\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_8cf17bc2f46f0eb6c002241c179268df9ef5261f
+file.0=C\:\\androidwork\\TestImsi\\testImsi\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_f73e1acb94e9722cb471dca8b391692a7950bb08\\classes.dex
